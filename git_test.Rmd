@@ -1,0 +1,12 @@
+---
+title: "collab woot woot"
+author: "MaddieFrick"
+date: "11/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hi maddie is in the house YUH welcome to the collab
